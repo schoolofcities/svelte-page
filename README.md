@@ -48,3 +48,4 @@ Then push the dist folder into a subtree activating gh-pages
 git subtree push --prefix dist origin gh-pages
 ```
 
+Any future changes to the live site should push to both the overall repo and the gh-pages branch
