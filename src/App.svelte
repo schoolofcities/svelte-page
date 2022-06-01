@@ -38,7 +38,7 @@
   }
 
   h1 {
-    color: #ff3e00;
+    color: rgb(29, 128, 90);
     text-transform: uppercase;
     font-size: 4rem;
     font-weight: 100;
