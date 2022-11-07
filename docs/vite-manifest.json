@@ -1,11 +1,11 @@
 {
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-2ad061f4.js",
+    "file": "_app/immutable/start-68854725.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
       "_index-6628a91c.js",
-      "_singletons-10cd1412.js"
+      "_singletons-bc88d92c.js"
     ],
     "dynamicImports": [
       ".svelte-kit/generated/nodes/0.js",
@@ -15,7 +15,7 @@
     ]
   },
   "src/routes/+layout.svelte": {
-    "file": "_app/immutable/components/pages/_layout.svelte-6c6d6b2f.js",
+    "file": "_app/immutable/components/pages/_layout.svelte-820d61db.js",
     "src": "src/routes/+layout.svelte",
     "isEntry": true,
     "imports": [
@@ -26,12 +26,12 @@
     ]
   },
   "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
-    "file": "_app/immutable/components/error.svelte-88d6227f.js",
+    "file": "_app/immutable/components/error.svelte-fafb6139.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
     "isEntry": true,
     "imports": [
       "_index-6628a91c.js",
-      "_singletons-10cd1412.js"
+      "_singletons-bc88d92c.js"
     ]
   },
   "src/routes/+page.svelte": {
@@ -74,8 +74,8 @@
       "__page-038196b6.js"
     ]
   },
-  "_singletons-10cd1412.js": {
-    "file": "_app/immutable/chunks/singletons-10cd1412.js",
+  "_singletons-bc88d92c.js": {
+    "file": "_app/immutable/chunks/singletons-bc88d92c.js",
     "imports": [
       "_index-6628a91c.js"
     ]
@@ -93,7 +93,7 @@
     "file": "_app/immutable/chunks/_page-038196b6.js"
   },
   ".svelte-kit/generated/nodes/0.js": {
-    "file": "_app/immutable/chunks/0-84c67a49.js",
+    "file": "_app/immutable/chunks/0-b340feea.js",
     "src": ".svelte-kit/generated/nodes/0.js",
     "isDynamicEntry": true,
     "imports": [
@@ -102,7 +102,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/1.js": {
-    "file": "_app/immutable/chunks/1-5b70bbcf.js",
+    "file": "_app/immutable/chunks/1-5a243839.js",
     "src": ".svelte-kit/generated/nodes/1.js",
     "isDynamicEntry": true,
     "imports": [
