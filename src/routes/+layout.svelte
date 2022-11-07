@@ -1,7 +1,7 @@
 
 <div class="app">
 	
-	meow
+	meow meow
 
 	<main>
 		<slot />
